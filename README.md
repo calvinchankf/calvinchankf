@@ -1,8 +1,6 @@
 <h1 align="center">Hello World 👋 I'm Calvin</h1>
 <h3 align="center">A Full Stack Software Engineer from 🇭🇰 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=calvinchankf" alt="calvinchankf" /> </p>
-
 - 👨🏻‍💻 I work at [gumtree AU @ebay](http://gumtree.com.au/)
 - ➕➖✖️➗ I believe that practising algorithms is a long-term investment in my life, so I do it [everyday](https://github.com/calvinchankf/algodaily)
 - 🏃🏻 As well as some competitions, [codejam](https://github.com/calvinchankf/GoogleCodeJam), [kickstart](https://github.com/calvinchankf/googlekickstart) ...etc
@@ -55,3 +53,5 @@
 <a href="https://linkedin.com/in/calvinchankf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="calvinchankf" height="30" width="30" /></a>
 <a href="https://medium.com/@calvinchankf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@calvinchankf" height="30" width="30" /></a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=calvinchankf" alt="calvinchankf" /> </p>
