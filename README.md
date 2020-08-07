@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋 I'm Calvin</h1>
-<h3 align="center">A Full Stack Software Engineer from 🇭🇰 </h3>
+<h3 align="center">A Full Stack Software Engineer from Hong Kong 🇭🇰 </h3>
 
 - 👨🏻‍💻 I work at [gumtree AU @ebay](http://gumtree.com.au/)
 - ➕➖✖️➗ I believe that practising algorithms is a long-term investment in my life, so I do it [everyday](https://github.com/calvinchankf/algodaily)
@@ -7,9 +7,12 @@
 - 🎮 Feel free to explore around my github, you might find out [something fun](https://github.com/calvinchankf/stupid-tetris)
 - 😉 Life is short, I am always looking for [new opportunities](https://www.linkedin.com/in/calvinchankf/)
 
-<p align="center">
+
+<p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=calvinchankf&show_icons=true" alt="calvinchankf" />
+  <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 </p>
+
 
 ### My tech stack
 
