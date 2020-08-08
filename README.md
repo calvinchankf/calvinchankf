@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋 I'm Calvin</h1>
 <h3 align="center">A Full Stack Software Engineer from Hong Kong 🇭🇰 </h3>
 
-- 👨🏻‍💻 I work at [gumtree AU @ebay](http://gumtree.com.au/)
+- 👨🏻‍💻 I work at [GumtreeAU@ebay](http://gumtree.com.au/)
 - ➕➖✖️➗ I believe that practising algorithms is a long-term investment in my life, so I do it [everyday](https://github.com/calvinchankf/algodaily)
 - 🏃🏻 As well as some competitions, [codejam](https://github.com/calvinchankf/GoogleCodeJam), [kickstart](https://github.com/calvinchankf/googlekickstart) ...etc
 - 🎮 Feel free to explore around my github, you might find out [something fun](https://github.com/calvinchankf/stupid-tetris)
