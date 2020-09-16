@@ -2,7 +2,7 @@
 <h3 align="center">A Full Stack Software Engineer from Hong Kong 🇭🇰 </h3>
 
 - 👨🏻‍💻 I work at [GumtreeAU@ebay](http://gumtree.com.au/)
-- ➕➖✖️➗ I believe that practising algorithms is a long-term investment in my life, so I do it [everyday](https://github.com/calvinchankf/algodaily) [![](https://lc.coding.gs/v1/solved/calvinchankf.svg?logo=leetcode)](https://leetcode.com/calvinchankf/)
+- ➕➖✖️➗ Practising algorithms is a long-term investment, so I do it [everyday](https://github.com/calvinchankf/algodaily) [![](https://lc.coding.gs/v1/solved/calvinchankf.svg?logo=leetcode)](https://leetcode.com/calvinchankf/)
 - 🏃🏻 As well as competitions, [codejam](https://github.com/calvinchankf/GoogleCodeJam), [kickstart](https://github.com/calvinchankf/googlekickstart) ...etc
 - 🎮 Feel free to explore around my github, you might find out [something fun](https://github.com/calvinchankf/stupid-tetris)
 - 😉 Life is short, I am always looking for [new opportunities](https://www.linkedin.com/in/calvinchankf/)
