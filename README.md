@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋 I'm Calvin</h1>
-<h3 align="center">Software Engineer from Hong Kong 🇭🇰 </h3>
+<h3 align="center">a Software Engineer from Hong Kong 🇭🇰 </h3>
 
 - 👨🏻‍💻 I work at [GumtreeAU@ebay](http://gumtree.com.au/)
 - ➕➖✖️➗ Practising algorithms is a long-term investment, so I do it [everyday](https://github.com/calvinchankf/algodaily) [![](https://lc.coding.gs/v1/solved/calvinchankf.svg?logo=leetcode)](https://leetcode.com/calvinchankf/)
