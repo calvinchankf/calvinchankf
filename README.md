@@ -13,7 +13,6 @@
   <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 </p>
 
-
 ### My tech stack
 
 - Frontend
@@ -60,3 +59,5 @@
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=calvinchankf" alt="calvinchankf" /> </p>
+<p align="center"> <img src="https://badges.pufler.dev/years/calvinchankf" alt="calvinchankf" /> </p>
+<p align="center"> <img src="https://badges.pufler.dev/commits/monthly/calvinchankf" alt="calvinchankf" /> </p>
