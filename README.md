@@ -58,6 +58,8 @@
 <a href="https://medium.com/@calvinchankf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@calvinchankf" height="30" width="30" /></a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=calvinchankf" alt="calvinchankf" /> </p>
-<p align="center"> <img src="https://badges.pufler.dev/years/calvinchankf" alt="calvinchankf" /> </p>
-<p align="center"> <img src="https://badges.pufler.dev/commits/monthly/calvinchankf" alt="calvinchankf" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=calvinchankf" alt="calvinchankf" />
+  <img src="https://badges.pufler.dev/years/calvinchankf" alt="calvinchankf" />
+  <img src="https://badges.pufler.dev/commits/monthly/calvinchankf" alt="calvinchankf" />
+</p>
