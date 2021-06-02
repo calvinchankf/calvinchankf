@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋 I'm Calvin</h1>
 <h3 align="center">Software Engineer from Hong Kong 🇭🇰 and working in London 🇬🇧 at the moment</h3>
 
-- 👨🏻‍💻 I work at Facebook
+- 👨🏻‍💻 I work at **Facebook**
 - ➕➖✖️➗ Practising algorithms is a long-term investment, so I do it [everyday](https://github.com/calvinchankf/algodaily) [![](https://lc.coding.gs/v1/solved/calvinchankf.svg?logo=leetcode)](https://leetcode.com/calvinchankf/)
 - 🏃🏻 As well as competitions, [codejam](https://github.com/calvinchankf/GoogleCodeJam), [kickstart](https://github.com/calvinchankf/googlekickstart) ...etc
 - 🎮 Feel free to explore around my github, you might find out [something fun](https://github.com/calvinchankf/stupid-tetris)
