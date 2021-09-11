@@ -2,6 +2,7 @@
 <h3 align="center">Software Engineer from Hong Kong 🇭🇰 and work in London 🇬🇧</h3>
 
 - 👨🏻‍💻 I work at **Facebook**
+- 🤝 Previously, I worked at **eBay**
 - ➕➖✖️➗ Practising algorithms is a long-term investment, I do it [everyday](https://github.com/calvinchankf/algodaily) [![](https://lc.coding.gs/v1/solved/calvinchankf.svg?logo=leetcode)](https://leetcode.com/calvinchankf/)
 - 🏃🏻 As well as competitions, [codejam](https://github.com/calvinchankf/GoogleCodeJam), [kickstart](https://github.com/calvinchankf/googlekickstart) ...etc
 - 🎮 Feel free to explore around my github, you might find out [something fun](https://github.com/calvinchankf/stupid-tetris)
