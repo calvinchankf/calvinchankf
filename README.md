@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋 I'm Calvin</h1>
-<h3 align="center">Software Engineer from Hong Kong 🇭🇰 and work in London 🇬🇧</h3>
+<h3 align="center">Software Engineer from Hong Kong 🇭🇰 and now in London 🇬🇧</h3>
 
 - 👨🏻‍💻 I work at **Facebook**
 - 🤝 Previously, I worked at **eBay**
