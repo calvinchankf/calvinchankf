@@ -6,7 +6,7 @@
 - ➕➖✖️➗ Practising algorithms is a long-term investment, [I do it often](https://leetcode.com/calvinchankf/)
 - 🏃🏻 As well as competitions, [codejam](https://github.com/calvinchankf/GoogleCodeJam), [kickstart](https://github.com/calvinchankf/googlekickstart) ...etc
 - 🎮 I am a product guy, I like working on UI that people can see & use, you might find out [something fun](https://github.com/calvinchankf?tab=repositories&q=&type=&language=javascript&sort=)
-- 😉 Life is short, I am always looking for [new opportunities](https://www.linkedin.com/in/calvinchankf/)
+- 😉 Life is short, I am always looking for [good opportunities](https://www.linkedin.com/in/calvinchankf/)
 
 
 <p align="left">
