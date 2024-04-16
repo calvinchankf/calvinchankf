@@ -1,8 +1,8 @@
 <h1 align="center">Hello World 👋 I'm Calvin</h1>
 <h3 align="center">Fullstack Software Engineer from Hong Kong 🇭🇰 and now in London 🇬🇧</h3>
 
-- 👨🏻‍💻 I work at **Facebook**
-- 🤝 Previously, I worked at **eBay**
+- 👨🏻‍💻 I work at **Samsara**
+- 🤝 Previously, I worked at **Facebook** and **eBay**
 - ➕➖✖️➗ Practising algorithms is a long-term investment, [I do it often](https://leetcode.com/calvinchankf/)
 - 🏃🏻 As well as competitions, [codejam](https://github.com/calvinchankf/GoogleCodeJam), [kickstart](https://github.com/calvinchankf/googlekickstart) ...etc
 - 🎮 I am a product guy, I like working on UI that people can see & use, you might find out [something fun](https://github.com/calvinchankf?tab=repositories&q=&type=&language=javascript&sort=)
