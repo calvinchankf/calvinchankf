@@ -3,7 +3,7 @@
 
 - 👨🏻‍💻 I work at **Samsara**
 - 🤝 Previously, I worked at **Facebook** and **eBay**
-- ➕➖✖️➗ Practising algorithms is a long-term investment, [I do it, occasionally](https://leetcode.com/calvinchankf/)
+- ➕➖✖️➗ Practising algorithms is a long-term investment, [I do it sometime as a hobby](https://leetcode.com/calvinchankf/)
 - 🏃🏻 As well as competitions, [codejam](https://github.com/calvinchankf/GoogleCodeJam), [kickstart](https://github.com/calvinchankf/googlekickstart) ...etc
 - 🎮 I am a product guy, I like working on UI that people can see & use, you might find out [something fun](https://github.com/calvinchankf?tab=repositories&q=&type=&language=javascript&sort=)
 - 😉 Life is short, I am always looking for [good opportunities](https://www.linkedin.com/in/calvinchankf/)
