@@ -1,8 +1,8 @@
 <h1 align="center">Hello World 👋 I'm Calvin</h1>
 <h3 align="center">Fullstack Software Engineer from Hong Kong 🇭🇰 and now in London 🇬🇧</h3>
 
-- 👨🏻‍💻 I work at **Samsara**
-- 🤝 Previously, I worked at **Facebook** and **eBay**
+- 👨🏻‍💻 I work at **Samsara**, previously I worked at **Facebook** and **eBay**
+- 🤖 Recently I have been working a lot in AI, **from** building machine learning safety features at Samsara **to** my personal side projects - for examples [1](https://github.com/calvinchankf/simple-subtitles-generator), [2](https://github.com/calvinchankf/simple-meeting-note-taker)...etc
 - ➕➖✖️➗ Practising algorithms is a long-term investment, [I do it sometime as a hobby](https://leetcode.com/calvinchankf/)
 - 🏃🏻 As well as competitions, [codejam](https://github.com/calvinchankf/GoogleCodeJam), [kickstart](https://github.com/calvinchankf/googlekickstart) ...etc
 - 🎮 I am a product guy, I like working on UI [something fun](https://github.com/calvinchankf?tab=repositories&q=&type=&language=javascript&sort=)
@@ -40,7 +40,7 @@
   <img src="https://www.vectorlogo.zone/logos/golang/golang-vertical.svg" alt="go" width="26" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/>
 </p>
 
 - Devops
